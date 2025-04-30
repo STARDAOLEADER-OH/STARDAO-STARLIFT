@@ -16,8 +16,11 @@ Instead, it offers a cognitive and structural framework—built upon the author�
 
 This project is derived from two independent conceptual papers:
 
-- 📄 **Paper 1**: *Electron-Centered Spatial Collapse and Gravitational Reversal*  
-- 📄 **Paper 2**: *Trend Spiral Interaction Field (TSIF) and Inverted Flow Memory Model*
+- 📄 **[Paper 1: Spatial Electron Collapse Model](./theory/Paper1_SpatialElectronModel.pdf)**  
+  Describes how local gravitational behavior may be reversed via electron-field memory topologies.
+
+- 📄 **[Paper 2: TSIF Field and Memory Flow Reversal](./theory/Paper2_TSIF_Field_Model.pdf)**  
+  Introduces the Trend Spiral Interaction Field concept and proposes a model of gravity as directional information imbalance.
 
 These papers argue that gravity is not a pure force vector, but an **emergent memory effect** driven by field topology asymmetry.  
 When the structure of spatial electron memory is reversed, a localized or systemic anti-gravitational behavior may emerge—without relying on exotic matter or negative energy.

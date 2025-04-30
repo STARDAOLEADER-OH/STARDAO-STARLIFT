@@ -47,3 +47,28 @@ Where gravity is treated as a type of “structural logic imbalance” rather th
 
 ## 🧭 Suggested File Structure
 
+
+---
+
+## 🤝 Open Collaboration Notice
+
+StarLift is a speculative system, not intended for engineering-level claims.  
+However, it serves as a unique starting point for those exploring:
+
+- Non-force-based gravity mechanisms
+- Field reprogramming logic
+- Cognition-driven space-time structure models
+- Post-Einstein field cognition theory
+
+---
+
+**Submitted by:**  
+HAKBONG OH  
+Founder of STARDAO  
+📍 Seoul / Git: [github.com/STARDAOLEADER-OH](https://github.com/STARDAOLEADER-OH)
+
+---
+
+> “Gravity is not what falls.  
+> It is what forgets to hold.”
+
